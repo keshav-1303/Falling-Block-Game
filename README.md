@@ -1,7 +1,3 @@
-Here's a simple `README.md` file for your `simple_game.py` project:
-
----
-
 # 🎮 Dodge the Falling Blocks
 
 A simple Pygame-based arcade game where you control a player block to dodge falling blocks. The longer you survive, the higher your score!
@@ -11,7 +7,6 @@ A simple Pygame-based arcade game where you control a player block to dodge fall
 ![Game Screenshot](#)
 *(Add a screenshot here if you'd like!)*
 
----
 
 ## 🚀 How to Play
 
@@ -20,7 +15,6 @@ A simple Pygame-based arcade game where you control a player block to dodge fall
 * Each block you dodge increases your score.
 * The game ends when a block hits your player.
 
----
 
 ## 📦 Requirements
 
@@ -41,8 +35,6 @@ pip install pygame
 python simple_game.py
 ```
 
----
-
 ## 🛠️ Features
 
 * Player movement with keyboard
@@ -50,13 +42,3 @@ python simple_game.py
 * Collision detection
 * Score tracking
 * Game Over screen
-
----
-
-## 📝 License
-
-This project is open source and free to use for learning or modification.
-
----
-
-Let me know if you want to add enhancements like sound, increasing difficulty, or a main menu!
