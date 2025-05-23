@@ -27,8 +27,6 @@ Install Pygame (if not already installed):
 pip install pygame
 ```
 
----
-
 ## ▶️ Run the Game
 
 ```bash
